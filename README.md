@@ -44,4 +44,4 @@ Here are some ideas to get you started:
     Also I upload modified code and solved problems from courses I take.
     
 # **Tech stack**
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,bash,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,bash,vscode,git,latex)](https://skillicons.dev)
