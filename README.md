@@ -13,18 +13,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🔭 Exploring the fascinating realms of machine learning, artificial intelligence, and data science is my passion. 
+    I love to delve into complex problems, apply mathematical concepts, and uncover meaningful insights from data.
+
+💡 As a math enthusiast, I find joy in the elegant beauty of mathematical theories and their practical applications in the world of technology. 
+    I'm constantly seeking opportunities to combine my mathematical knowledge with cutting-edge technologies to build intelligent and efficient solutions.
+
+🌱 I'm currently expanding my skills in various machine learning techniques, including deep learning, natural language processing, and computer vision. 
+    I'm also honing my expertise in data analysis, visualization, and predictive modeling.
+
+💻 On my GitHub, you'll find projects and code repositories where I share my experiments, implementations, and research in the field of ML, AI, and Data Science. 
+    Also I'm putting here modified code from courses I'm taking.
+    
+🤝 I'm always open to collaborations, discussions, and learning from others in the community. Feel free to reach out to me for any interesting projects or opportunities.
 -->
+👋 Hello, I'm **Maciek**!
 
-<h1 align="center">Hi 👋, I'm Maciek</h1>
-<h3 align="center">🧠 Machine Learning | 🤖 Artificial Intelligence | 💻 Cybersecurity | ➕ Mathematics</h3>
+🔭 Exploring the fascinating realms of **mathematics**, **artificial intelligence**, and **cybersecurity** is my passion. 
+    I love to apply mathematical concepts through code I write.
 
-- 🌱 I’m currently learning **OS protection, networking, computational thinking.**
+💡 As a math enthusiast, I find joy in the elegant beauty of mathematical theories and their practical applications in the world of technology. 
+    I'm constantly seeking opportunities to combine my mathematical knowledge with cutting-edge technologies to build intelligent and efficient solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🌱 I'm currently expanding my skills in networking, security of operating systems, artificial intelligence and computer vision. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macsok&show_icons=true&locale=en" alt="macsok" /></p>
+💻 On my GitHub, you'll find small projects (mostly algorithms) and code repositories where I share my experiments and implementations. 
+    Also I upload modified code and solved problems from courses I take.
+    
