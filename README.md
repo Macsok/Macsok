@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 🌱 I'm currently expanding my skills in networking, security of operating systems, artificial intelligence and computer vision. 
 
-💻 On my GitHub, you'll find small projects (mostly algorithms) and code repositories where I share my experiments and implementations. 
+💻 On my GitHub, you'll find projects and code repositories where I share my experiments and implementations. 
     Also I upload modified code and solved problems from courses I take.
     
 # **Tech stack**
