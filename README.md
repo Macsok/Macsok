@@ -28,6 +28,8 @@ Here are some ideas to get you started:
     
 🤝 I'm always open to collaborations, discussions, and learning from others in the community. Feel free to reach out to me for any interesting projects or opportunities.
 -->
+
+# **About Me**
 👋 Hello, I'm **Maciek**!
 
 🔭 Exploring the fascinating realms of **mathematics**, **artificial intelligence**, and **cybersecurity** is my passion. 
@@ -41,3 +43,5 @@ Here are some ideas to get you started:
 💻 On my GitHub, you'll find small projects (mostly algorithms) and code repositories where I share my experiments and implementations. 
     Also I upload modified code and solved problems from courses I take.
     
+# **Tech stack**
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,bash,vscode,git)](https://skillicons.dev)
