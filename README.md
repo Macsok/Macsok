@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 -->
 
 # **About Me**
+<img align="right" src="https://i.pinimg.com/originals/66/90/05/66900582a3c8afe904c2f7e4d83bd4ac.gif" alt="gif">
 👋 Hello, I'm **Maciek**!
 
 🔭 Exploring the fascinating realms of **mathematics**, **artificial intelligence**, and **cybersecurity** is my passion. 
