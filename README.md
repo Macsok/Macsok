@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,bash,vscode,git,latex)](https://skillicons.dev)
 
 <div align="center">
-    ![Alt Text](https://repository-images.githubusercontent.com/258305543/28971980-92d2-11ea-8a66-4d0d91c0e790)
-    ![Alt Text](https://i.pinimg.com/originals/66/90/05/66900582a3c8afe904c2f7e4d83bd4ac.gif)
+![Alt Text](https://repository-images.githubusercontent.com/258305543/28971980-92d2-11ea-8a66-4d0d91c0e790)
+![Alt Text](https://i.pinimg.com/originals/66/90/05/66900582a3c8afe904c2f7e4d83bd4ac.gif)
 </div>
