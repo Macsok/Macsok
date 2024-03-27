@@ -46,4 +46,7 @@ Here are some ideas to get you started:
 # **Tech stack**
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,bash,vscode,git,latex)](https://skillicons.dev)
 
-![Alt Text](https://repository-images.githubusercontent.com/258305543/28971980-92d2-11ea-8a66-4d0d91c0e790)
+<div align="center">
+    <!-- ![Alt Text](https://repository-images.githubusercontent.com/258305543/28971980-92d2-11ea-8a66-4d0d91c0e790) -->
+    ![boids alg. anim.](https://procedural-generation.isaackarth.com/tumblr_files/tumblr_nud6gtD3ht1uo5d9jo2_r1_540.gif)
+</div>
