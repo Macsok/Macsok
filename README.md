@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 
 <div align="center">
     <!-- ![Alt Text](https://repository-images.githubusercontent.com/258305543/28971980-92d2-11ea-8a66-4d0d91c0e790) -->
-    ![Alt Text](https://procedural-generation.isaackarth.com/tumblr_files/tumblr_nud6gtD3ht1uo5d9jo2_r1_540.gif)
+    ![Alt Text](https://i.pinimg.com/originals/66/90/05/66900582a3c8afe904c2f7e4d83bd4ac.gif)
 </div>
