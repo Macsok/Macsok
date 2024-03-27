@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 # **Tech stack**
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,bash,vscode,git,latex)](https://skillicons.dev)
 
-<img align="center" src="https://www.gifcen.com/wp-content/uploads/2022/05/black-hole-gif-7.gif" alt="planet .gif">
-
+<img align="center" src="https://1.bp.blogspot.com/-WuOcrksAEuE/WyFnD63-nlI/AAAAAAAABm0/iXeNp_2uGvwb-K7xlwlMbGQuBJqv4SX7gCEwYBhgL/s1600/gifs-on-cli.gif" alt="man .gif">
 <!--
+<img align="center" src="https://www.gifcen.com/wp-content/uploads/2022/05/black-hole-gif-7.gif" alt="planet .gif">
 <img align="right" src="https://i.pinimg.com/originals/66/90/05/66900582a3c8afe904c2f7e4d83bd4ac.gif" alt="gif">
 <img aling="center" src="https://procedural-generation.isaackarth.com/tumblr_files/tumblr_nud6gtD3ht1uo5d9jo2_r1_540.gif" alt="boids .gif">
 <div align="center">
