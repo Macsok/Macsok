@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 -->
 
 # **About Me**
-<img align="right" src="https://i.pinimg.com/originals/66/90/05/66900582a3c8afe904c2f7e4d83bd4ac.gif" alt="gif">
 👋 Hello, I'm **Maciek**!
 
 🔭 Exploring the fascinating realms of **mathematics**, **artificial intelligence**, and **cybersecurity** is my passion. 
@@ -48,6 +47,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,bash,vscode,git,latex)](https://skillicons.dev)
 
 
-<img align="right" src="https://i.pinimg.com/originals/66/90/05/66900582a3c8afe904c2f7e4d83bd4ac.gif" alt="gif">
+<#img align="right" src="https://i.pinimg.com/originals/66/90/05/66900582a3c8afe904c2f7e4d83bd4ac.gif" alt="gif">
+<img aling="center" src="https://procedural-generation.isaackarth.com/tumblr_files/tumblr_nud6gtD3ht1uo5d9jo2_r1_540.gif" alt="boids .gif">
 <div align="center">
 </div>
