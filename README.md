@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 # **Tech stack**
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,bash,vscode,git,latex)](https://skillicons.dev)
 
-
+<div align="center">
 <align="right" src="https://i.pinimg.com/originals/66/90/05/66900582a3c8afe904c2f7e4d83bd4ac.gif" alt="gif">
-<div align="right">
 </div>
