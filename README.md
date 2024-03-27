@@ -45,3 +45,5 @@ Here are some ideas to get you started:
     
 # **Tech stack**
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,bash,vscode,git,latex)](https://skillicons.dev)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
