@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 # **About Me**
 👋 Hello, I'm **Maciek**!
 
-🔭 Exploring the fascinating realms of **mathematics**, **artificial intelligence**, and **cybersecurity** is my passion. 
+🔭 Exploring the fascinating realms of **mathematics**, **artificial intelligence**, and **cybersecurity**. 
     I love to apply mathematical concepts through code I write.
 
 💡 As a math enthusiast, I find joy in the elegant beauty of mathematical theories and their practical applications in the world of technology. 
@@ -45,9 +45,10 @@ Here are some ideas to get you started:
     
 # **Tech stack**
 <div>
-<img align="left" src="https://skillicons.dev/icons?i=py,c,cpp,bash,vscode,git,latex" alt="icons">
+<img align="left" src="https://skillicons.dev/icons?i=py,c,cpp,bash,flask,fastapi,mysql,js,vscode,git,latex" alt="icons">
 <img align="right" src="https://1.bp.blogspot.com/-WuOcrksAEuE/WyFnD63-nlI/AAAAAAAABm0/iXeNp_2uGvwb-K7xlwlMbGQuBJqv4SX7gCEwYBhgL/s1600/gifs-on-cli.gif" alt="man .gif" width=95 height=55>
 </div>
+
 <!--
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,bash,vscode,git,latex)](https://skillicons.dev)
 <img align="center" src="https://www.gifcen.com/wp-content/uploads/2022/05/black-hole-gif-7.gif" alt="planet .gif">
