@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://1.bp.blogspot.com/-WuOcrksAEuE/WyFnD63-nlI/AAAAAAAABm0/iXeNp_2uGvwb-K7xlwlMbGQuBJqv4SX7gCEwYBhgL/s1600/gifs-on-cli.gif" alt="man .gif" width=95 height=55>
 </div>
 
-# *Frameworks*
+# **Frameworks**
 <div>
 <img align="left" src="https://skillicons.dev/icons?i=flask,fastapi,mysql,scikitlearn" alt="icons">
 </div>
