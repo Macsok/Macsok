@@ -27,27 +27,17 @@ Here are some ideas to get you started:
     Also I'm putting here modified code from courses I'm taking.
     
 🤝 I'm always open to collaborations, discussions, and learning from others in the community. Feel free to reach out to me for any interesting projects or opportunities.
+
 -->
+<div align="center">
+<img src="https://1.bp.blogspot.com/-WuOcrksAEuE/WyFnD63-nlI/AAAAAAAABm0/iXeNp_2uGvwb-K7xlwlMbGQuBJqv4SX7gCEwYBhgL/s1600/gifs-on-cli.gif" alt="man .gif">
+</div>
 
-# **About Me**
-👋 Hello, I'm **Maciek**!
-
-🔭 Exploring the fascinating realms of **mathematics**, **artificial intelligence**, and **cybersecurity**. 
-    I love to apply mathematical concepts through code I write.
-
-💡 As a math enthusiast, I find joy in the elegant beauty of mathematical theories and their practical applications in the world of technology. 
-    I'm constantly seeking opportunities to combine my mathematical knowledge with cutting-edge technologies to build intelligent and efficient solutions.
-
-🌱 I'm currently expanding my skills in networking, security of operating systems, artificial intelligence and computer vision. 
-
-💻 On my GitHub, you'll find projects and code repositories where I share my experiments and implementations. 
-    Also I upload modified code and solved problems from courses I take.
-    
-# **Tech stack**
-<div>
+<!-- **Tech stack**
+<!-- <div>
 <img align="left" src="https://skillicons.dev/icons?i=py,c,cpp,bash,html,css,docker,aws,git,latex" alt="icons">
 <img align="right" src="https://1.bp.blogspot.com/-WuOcrksAEuE/WyFnD63-nlI/AAAAAAAABm0/iXeNp_2uGvwb-K7xlwlMbGQuBJqv4SX7gCEwYBhgL/s1600/gifs-on-cli.gif" alt="man .gif" width=95 height=55>
-</div>
+</div> -->
 
 <!--
 # **Frameworks**
